@@ -1,0 +1,35 @@
+{
+    "languageserver": {
+    },
+    "diagnostic.refreshOnInsertMode": false,
+    "diagnostic.maxWindowHeight": 20,
+    "suggest.maxCompleteItemCount": 5,
+    "coc.preferences.formatOnSaveFiletypes": [
+      "typescript",
+      "typescriptreact",
+      "javascript",
+      "javascriptreact",
+      "javascript.node",
+      "json",
+      "css",
+      "scss",
+      "sass",
+      "html",
+      "html.handlebars",
+      "sh"
+    ],
+    "typescript.updateImportsOnFileMove.enable": true,
+    "codeLens.enable": true,
+    "prettier.eslintIntegration": true,
+    "prettier.requireConfig": false,
+    "eslint.autoFixOnSave": true,
+    "eslint.quiet": true,
+    "eslint.options": {
+      "useEslintrc": true
+    },
+    "css.validate": false,
+    "stylelint.enable": true,
+    "stylelint.filetypes": ["css", "less", "scss", "sass", "html"],
+    "sql.database": "postgresql"
+  }
+  
